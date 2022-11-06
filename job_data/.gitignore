@@ -1,2 +1,9 @@
-.venv
+/venv/
 pyvenv.cfg
+/job_data/
+/bin/
+/include/
+/lib/python3.10/site-packages/
+*bin
+
+
